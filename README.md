@@ -9,9 +9,6 @@ Right Now I'm 14 and I'm Interested In Programming And This Is My OpenSource And
 ## Coded With ♥️ and Java 
 
 
-## OpenSource Lisences
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
 
 
@@ -56,3 +53,7 @@ I've Optimised The App To Support All Android Architecture and Also I've added a
 If you have any feedback, please reach out to us at---
 
 - [My Twitter](https://twitter.com/_Arkaneel_Roy_?t=OjpaEabh74RpDYzZksxdRw&s=08)
+
+##Download
+
+- [Download Latest Release]()
