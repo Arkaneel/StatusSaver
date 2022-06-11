@@ -54,6 +54,6 @@ If you have any feedback, please reach out to us at---
 
 - [My Twitter](https://twitter.com/_Arkaneel_Roy_?t=OjpaEabh74RpDYzZksxdRw&s=08)
 
-##Download
+## Download
 
-- [Download Latest Release]()
+- [Download Latest Release](https://github.com/Arkaneel/StatusSaver/releases/tag/Android_Package)
