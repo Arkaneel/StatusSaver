@@ -60,4 +60,8 @@ If you have any feedback, please reach out to us at---
 
 ## Download
 
-- [Download Latest Release](https://github.com/Arkaneel/StatusSaver/releases/tag/Android_Package)
+- [Checkout Release](https://github.com/Arkaneel/StatusSaver/releases/tag/Android_Package)
+
+## Download Latest Package
+
+- [Download Latest Package](https://github.com/Arkaneel/StatusSaver/releases/download/Android_Package/com.Arkaneel.statusaver.1.4.0.apk)
