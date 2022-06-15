@@ -1,3 +1,6 @@
+
+
+
 # WhatsApp Status Saver
 
 This is a tool made by me that allows you to download WhatsApp statuses directly into your gallery......
@@ -6,16 +9,11 @@ This is a tool made by me that allows you to download WhatsApp statuses directly
 
 Right Now I'm 14 and I'm Interested In Programming And This Is My OpenSource Android Project... 
 
+## Coded With ♥️ and Java 
 
-You can Find The Source code in The Master Branch
-
-# Coded With ♥️ and Java
-
-
-## OpenSource Lisences
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-
+# Official Website
+ 
+ [Official Website](https://arkaneel.github.io/StatusSaver/)
 
 
 **Directory Where it Saves Statuses**
@@ -60,3 +58,10 @@ If you have any feedback, please reach out to us at---
 
 - [My Twitter](https://twitter.com/_Arkaneel_Roy_?t=OjpaEabh74RpDYzZksxdRw&s=08)
 
+## Download
+
+- [Checkout Release](https://github.com/Arkaneel/StatusSaver/releases/tag/Android_Package)
+
+## Download Latest Package
+
+- [Download Latest Package](https://github.com/Arkaneel/StatusSaver/releases/download/Android_Package/com.Arkaneel.statusaver.1.4.0.apk)
