@@ -15,7 +15,9 @@ Right Now I'm 14 and I'm Interested In Programming And This Is My OpenSource And
  
  [Official Website](https://arkaneel.github.io/StatusSaver/)
 
-
+```bash
+ - Doesn't Supports Android 11 or Above
+```
 **Directory Where it Saves Statuses**
 
 - The Directory Where it Saves Statuses is....
